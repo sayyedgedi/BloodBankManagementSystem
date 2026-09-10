@@ -3,7 +3,6 @@ Blood Bank Management System, App that manages the detail of the donor in Blood 
 
 
 
-## YouTube Channel: https://www.youtube.com/vijaythapa
 
 ## Tools and Technologies Used
 1. C# Programming Language
